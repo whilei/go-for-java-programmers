@@ -5,4 +5,5 @@ go:
 notifications:
       webhooks:
           - http://api.grouk.com/webhook/56432369e4b07d2ced36529e/e648d7a659e04d18aec9f1446e21f63d
-          - https://hooks.slack.com/services/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
+            #          - https://hooks.slack.com/services/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
+          - https://zapier.com/hooks/catch/3vr4ob/
